@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: José Francisco Manzano Manzano
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: 20221118_131636_351.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: pacoman871@gmail.com
+    phone: 55 6863 3611
+    timezone: CDMX/México
     citizenship:
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
@@ -32,10 +32,10 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Español
           level: Native
 
-        - idiom: French
+        - idiom: Ingles
           level: Professional
 
         - idiom: Spanish
@@ -54,20 +54,19 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     Soy Auxiliar en Técnico en Ofimática perfilado a actividades de oficina y administrativas,
+     como la actualización, registro y almacenamiento de información mediante base de datos de los clientes,
+     archivado. Responsable y proactivo siempre en la búsqueda de la mejora continúa para poder ofrecer 
+     el mejor servicio al cliente o empresa. Profesional, justo y honesto son los tres valores que me 
+     definen a la hora de practicar mi profesión.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Centro de Estudios Tecnológicos industrial y de servicios No. 32 José Vasconcelos
+        university: Cetis 32
+        time: 2020 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +75,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Escuela Secunadaria Número 69 Cesar Uscanga Uscarnga
+        university: Secundaria
+        time: 2017 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -88,21 +87,20 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Experiencia
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Promotor
+        time: 2022 - Present
+        company: INEA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          Realizar la promoción del programa que se encuentran vigentes, realizando la difusión por medios impresos,
+          así como la vinculación a diferentes dependencias de gobierno.
+          Llevar acabo la asesoría personalizada a cada uno de los miembros del grupo, apoyado con material 
+          de apoyo para la realización de las diferentes prácticas y actividades.
+          Realizar de una forma especializada en ejes básicos y en modelos y prácticas pedagógicas,
+          que apoya al área de Servicios Educativos del Instituto.
+          Determinar la detección de necesidades de formación de los asesores que desarrollan tareas de formación de asesores y alfabetizadores,
+          orientadores educativos, multiplicadores, etcétera, y planea, organiza, desarrolla y da seguimiento a programas de formación de dichas figuras.
             - Bullet point
             - Bullet point
       - role: Senior Software Engineer
@@ -196,26 +194,24 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title:  HABILIDADES
 
     toolset:
-      - name: Python & Django
+      - name: Creatividad E Innovación
+        level: 70%
+
+      - name: Comunicación
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Responsabilidad
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Pensamiento Crítico
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Colaboración Y Trabajo En Equipo
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
