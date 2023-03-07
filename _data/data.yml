@@ -99,35 +99,33 @@ experiences:
           que apoya al área de Servicios Educativos del Instituto.
           Determinar la detección de necesidades de formación de los asesores que desarrollan tareas de formación de asesores y alfabetizadores,
           orientadores educativos, multiplicadores, etcétera, y planea, organiza, desarrolla y da seguimiento a programas de formación de dichas figuras.
-            - Bullet point
-            - Bullet point
+            
             
 projects:
-    title: Projects
+    title: INFORMÁTICA
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Los Correctos usos de los programas y software de una computadora
+      segun lo estudiado en el CETIS 32.
     assignments:
-      - title: Velocity
+      - title: Windows 7, 8,10.
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Instalacion y correcto uso de este software."
 
-      - title: DevStudio
+      - title: Mac.
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Correcto uso de el equipo y software."
 
-      - title: Tempo
+      - title: Office (Word, Excel, Access, Publisher, Visio, PowerPoint, One Note, Outlook).
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Correcto uso y instalacion de la suites de oficina de Microsoft con sus programas."
 
-      - title: Atom
+      - title: Canva.
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Correcta ejecucion del programa virtual canva para elavorar presentaciones y promocion."
 
-      - title: Delta
+      - title: Redes Sociales
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Correcto uso de redes sociales mas activas hoy en día para una promocion."
 
 oss:
     title: OSS Contributions
