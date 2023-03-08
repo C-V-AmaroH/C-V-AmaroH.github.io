@@ -12,8 +12,8 @@ sidebar:
     avatar: Joshua.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: pacoman871@gmail.com
-    phone: 55 6863 3611
+    email: joshuahernandezamaro123@gmail.com
+    phone: 55 8325 2670
     timezone: CDMX/México
     citizenship:
     website: blog.Manzano.com #do not add http://
@@ -23,7 +23,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@paco619'
+    twitter: '@joshua69'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -99,11 +99,7 @@ projects:
       - title: Windows 7, 8,10.
         link: "#hook"
         tagline: "Instalacion y correcto uso de este software."
-
-      - title: Mac.
-        link: "#"
-        tagline: "Correcto uso de el equipo y software."
-
+        
       - title: Office (Word, Excel, Access, Publisher, Visio, PowerPoint, One Note, Outlook).
         link: "#"
         tagline: "Correcto uso y instalacion de la suites de oficina de Microsoft con sus programas."
