@@ -7,9 +7,9 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: José Francisco Manzano Manzano
+    name: Joshua Hernandez Amaro
     tagline: Tecnico En Ofitmatica
-    avatar: 20221118_131636_351.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Joshua.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: pacoman871@gmail.com
@@ -17,8 +17,8 @@ sidebar:
     timezone: CDMX/México
     citizenship:
     website: blog.Manzano.com #do not add http://
-    linkedin: José Manzano
-    xing: Manzano
+    linkedin: Joshua Amaro
+    xing: Hernandez
     github: PacoManzano619
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -42,7 +42,7 @@ sidebar:
     interests:
       title: Intereses
       info:
-        - item: Natacion
+        - item: Billar
           link:
 
         - item: Fútbol
@@ -55,11 +55,7 @@ career-profile:
     title: Perfil
     summary: |
      Soy Auxiliar en Técnico en Ofimática perfilado a actividades de oficina y administrativas,
-     como la actualización, registro y almacenamiento de información mediante base de datos de los clientes,
-     archivado. Responsable y proactivo siempre en la búsqueda de la mejora continúa para poder ofrecer 
-     el mejor servicio al cliente o empresa. Profesional, justo y honesto son los tres valores que me 
-     definen a la hora de practicar mi profesión.
-education:
+     como la actualización, registro y almacenamiento de información mediante base de datos.
     title: Education
     info:
       - degree: Centro de Estudios Tecnológicos industrial y de servicios No. 32 José Vasconcelos
@@ -87,18 +83,11 @@ education:
 experiences:
     title: Experiencia
     info:
-      - role: Promotor
-        time: 2022 - Present
-        company: INEA
+      - role: 
+        time: 
+        company: 
         details: |
-          Realizar la promoción del programa que se encuentran vigentes, realizando la difusión por medios impresos,
-          así como la vinculación a diferentes dependencias de gobierno.
-          Llevar acabo la asesoría personalizada a cada uno de los miembros del grupo, apoyado con material 
-          de apoyo para la realización de las diferentes prácticas y actividades.
-          Realizar de una forma especializada en ejes básicos y en modelos y prácticas pedagógicas,
-          que apoya al área de Servicios Educativos del Instituto.
-          Determinar la detección de necesidades de formación de los asesores que desarrollan tareas de formación de asesores y alfabetizadores,
-          orientadores educativos, multiplicadores, etcétera, y planea, organiza, desarrolla y da seguimiento a programas de formación de dichas figuras.
+          
             
             
 projects:
@@ -131,19 +120,19 @@ skills:
     title:  HABILIDADES
 
     toolset:
-      - name: Creatividad E Innovación
+      - name: Word
         level: 70%
 
       - name: Comunicación
         level: 98%
 
-      - name: Responsabilidad
+      - name: Redes Sociales
         level: 98%
 
-      - name: Pensamiento Crítico
+      - name: Excel
         level: 95%
 
-      - name: Colaboración Y Trabajo En Equipo
+      - name: Power Point
         level: 85%
 
 
